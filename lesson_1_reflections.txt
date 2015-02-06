@@ -1,0 +1,19 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+I can see what part of my file changed and so I figure  out the problem.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Its so important for a programmer
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+manually saving is good to control and manage the versions but you may forgot to conmit something so in this part automatic saving can be helpful.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+because  changes in one file in some case affected to anather file you must chande it too.
+
+
+How can you use the commands git log and git diff to view the history of files?
+first by git log we can see all the history then by using commit id and git diff ,we can find the difrents.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+the file that i want to change and commit moves to staging area
